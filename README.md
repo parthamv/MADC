@@ -1,6 +1,6 @@
 Title: Market Analysis of Data for Cryptocurrencies (MADC)
 
-Website link: https://sabooshagun.github.io/madc/
+
 
 Authors:
 
