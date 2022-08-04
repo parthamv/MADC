@@ -1,0 +1,11 @@
+python-dateutil==2.5.0
+statsmodels
+numpy
+pandas
+requests
+python-csv
+DateTime
+lxml
+matplotlib
+times
+yfinance
